@@ -1,0 +1,27 @@
+﻿  employee.c
+c:\users\wlwlw\source\repos\project2\project2\employee.c(55): warning C4552: '+': 의미 없는 연산자입니다. 파생 작업이 있는 연산자여야 합니다.
+c:\users\wlwlw\source\repos\project2\project2\employee.c(59): warning C4552: '+': 의미 없는 연산자입니다. 파생 작업이 있는 연산자여야 합니다.
+c:\users\wlwlw\source\repos\project2\project2\employee.c(73): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\wlwlw\source\repos\project2\project2\employee.c(75): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\wlwlw\source\repos\project2\project2\employee.c(77): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\wlwlw\source\repos\project2\project2\employee.c(12): warning C4101: 'out_time_m2' :참조되지 않은 지역 변수입니다.
+c:\users\wlwlw\source\repos\project2\project2\employee.c(12): warning C4101: 'in_time_m2' :참조되지 않은 지역 변수입니다.
+c:\users\wlwlw\source\repos\project2\project2\employee.c(11): warning C4101: 'wtime_upmin2' :참조되지 않은 지역 변수입니다.
+c:\users\wlwlw\source\repos\project2\project2\employee.c(11): warning C4101: 'sec2' :참조되지 않은 지역 변수입니다.
+c:\users\wlwlw\source\repos\project2\project2\employee.c(12): warning C4101: 'in_time_h2' :참조되지 않은 지역 변수입니다.
+c:\users\wlwlw\source\repos\project2\project2\employee.c(11): warning C4101: 'extra_min2' :참조되지 않은 지역 변수입니다.
+c:\users\wlwlw\source\repos\project2\project2\employee.c(11): warning C4101: 'pos2' :참조되지 않은 지역 변수입니다.
+c:\users\wlwlw\source\repos\project2\project2\employee.c(11): warning C4101: 'num2' :참조되지 않은 지역 변수입니다.
+c:\users\wlwlw\source\repos\project2\project2\employee.c(12): warning C4101: 'tax2' :참조되지 않은 지역 변수입니다.
+c:\users\wlwlw\source\repos\project2\project2\employee.c(12): warning C4101: 'befo_pay2' :참조되지 않은 지역 변수입니다.
+c:\users\wlwlw\source\repos\project2\project2\employee.c(12): warning C4101: 'out_time_h2' :참조되지 않은 지역 변수입니다.
+c:\users\wlwlw\source\repos\project2\project2\employee.c(11): warning C4101: 'wtime_min2' :참조되지 않은 지역 변수입니다.
+c:\users\wlwlw\source\repos\project2\project2\employee.c(13): warning C4101: 'dept2' :참조되지 않은 지역 변수입니다.
+c:\users\wlwlw\source\repos\project2\project2\employee.c(12): warning C4101: 'out_time_s2' :참조되지 않은 지역 변수입니다.
+c:\users\wlwlw\source\repos\project2\project2\employee.c(12): warning C4101: 'aft_pay2' :참조되지 않은 지역 변수입니다.
+c:\users\wlwlw\source\repos\project2\project2\employee.c(11): warning C4101: 'wtime_sec2' :참조되지 않은 지역 변수입니다.
+  employee_v2.c
+c:\users\wlwlw\source\repos\project2\project2\employee_v2.c(13): warning C4101: 'sec2' :참조되지 않은 지역 변수입니다.
+c:\users\wlwlw\source\repos\project2\project2\employee_v2.c(8): warning C4101: 'sec1' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  Project2.vcxproj -> C:\Users\wlwlw\source\repos\Project2\Debug\Project2.exe
